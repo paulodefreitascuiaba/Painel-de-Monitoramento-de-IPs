@@ -1,0 +1,6 @@
+{
+  "devices": [
+    { "nome": "SERVIDOR 1", "ip": "192.168.1.100" },
+    { "nome": "SERVIDOR 2", "ip": "192.168.1.200" }
+  ]
+}
