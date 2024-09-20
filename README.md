@@ -1,4 +1,4 @@
-# README - Painel de Monitoramento de IPs
+Painel de Monitoramento de IPs
 
 ## Descrição
 
